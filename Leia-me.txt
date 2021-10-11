@@ -1,0 +1,2 @@
+Uma simples conexão msql!
+Foi o que doi conseguido Obter!
